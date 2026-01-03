@@ -93,17 +93,6 @@ End-to-end ML pipeline forecasting **5-day stock returns** with **85%+ accuracy*
 
 👉 *Check repositories for detailed implementations.*
 
----
-
-## 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayush1908&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush1908&layout=compact&theme=radical" height="160"/>
-</p> -->
-
----
-
 ## ⚡ Fun Fact
 I enjoy **automating boring tasks** so humans can focus on real problems — once reduced a workflow by **90%** using Python 🚀
 
