@@ -1,18 +1,112 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Building scalable Django-based web applications<br><br>Developing machine learning pipelines for real-world prediction problems<br><br>Creating automation tools and AI agents using Python, APIs, and cloud services<br><br>👯 I’m looking to collaborate on<br><br>Open-source projects in Python, Django, and Machine Learning<br><br>Data science / ML projects involving real datasets and APIs<br><br>Automation tools, browser extensions, or backend systems that solve practical problems<br><br>🤝 I’m looking for help with<br><br>Advanced system design and backend scalability<br><br>Improving ML model performance & deployment (MLOps basics)<br><br>Preparing for software engineering & data roles (placements / interviews)<br><br>🌱 I’m currently learning<br><br>Advanced Machine Learning & Data Science techniques<br><br>Backend optimization, APIs, and cloud integrations<br><br>Strengthening DSA and problem-solving skills for interviews<br><br>💬 Ask me about<br><br>Python, Django, and backend development<br><br>Machine Learning with Scikit-learn<br><br>Automation using Gmail API & Google Sheets API<br><br>Building real-world projects as a student / fresher<br><br>⚡ Fun fact<br><br>I’ve automated tasks that reduced manual work by up to 90% and built ML models with 85%+ accuracy while still being a full-time engineering student 🚀
+<h1 align="center">Hi 👋, I'm Aayush Singh</h1>
+<h3 align="center">Software Engineer | Python & Django Developer | Machine Learning Enthusiast</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush1908) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:code.aayush.19@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aayush1908&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aayush1908&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush1908&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aayush1908">LinkedIn</a> •
+  <a href="https://github.com/Aayush1908">GitHub</a> •
+  <a href="mailto:code.aayush.19@gmail.com">Email</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aayush1908&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🎓 Final-year **B.Tech Electronics Engineering** student  
+💻 Passionate about **Software Engineering, Data Science & Machine Learning**  
+🏗️ Love building **real-world, scalable applications** rather than toy projects  
+📈 Strong in **DSA, backend systems, and automation**  
+
+I’ve completed **2 internships** and built **5+ production-grade projects**, focusing on:
+- Backend development with **Python & Django**
+- End-to-end **Machine Learning pipelines**
+- **Automation & AI agents** using APIs
+- Data-driven problem solving
+
+---
+
+## 🔭 I’m Currently Working On
+- Scalable **Django backend systems**
+- **Machine Learning models** for prediction & analytics
+- **Automation tools & AI agents** to reduce manual effort
+
+---
+
+## 🌱 I’m Currently Learning
+- Advanced **Machine Learning & Data Science**
+- **System Design & Backend Optimization**
+- Improving **DSA & interview problem-solving skills**
+
+---
+
+## 👯 I’m Looking to Collaborate On
+- Open-source **Python / Django** projects  
+- **ML & Data Science** projects with real datasets  
+- Automation tools, browser extensions, or backend-heavy systems  
+
+---
+
+## 🤝 I’m Looking for Help With
+- **System design** for scalable applications  
+- **Model deployment & MLOps basics**  
+- Placement-focused **SDE / Data role preparation**
+
+---
+
+## 💬 Ask Me About
+- Python, Django & backend development  
+- Machine Learning using **Scikit-learn**  
+- Automation with **Gmail API & Google Sheets API**  
+- Building real-world projects as a student/fresher  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+- Python, C/C++, Java, JavaScript  
+
+**Frameworks & Libraries**  
+- Django, NumPy, Pandas, Scikit-learn, Matplotlib, Bootstrap  
+
+**Databases & APIs**  
+- MySQL, SQL, Django ORM  
+- Google Sheets API, Gmail API  
+
+**Core Skills**  
+- Data Science & Machine Learning  
+- Automation & AI Agents  
+- Backend Development  
+- Data Structures & Algorithms  
+
+---
+
+## 📌 Featured Projects
+
+🔹 **SafeBrowse Extension**  
+Browser extension integrating **Google Safe Browsing API** with a crowdsourced reporting system to detect malicious domains in real time.
+
+🔹 **InternReach – AI-powered Email Agent**  
+Automated internship outreach using **Python + Gmail API**, reducing manual work by **90%**.
+
+🔹 **NSE StockSense AI**  
+End-to-end ML pipeline forecasting **5-day stock returns** with **85%+ accuracy** using Random Forest.
+
+👉 *Check repositories for detailed implementations.*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayush1908&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush1908&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+I enjoy **automating boring tasks** so humans can focus on real problems — once reduced a workflow by **90%** using Python 🚀
+
+---
+
+⭐ If you like my work, consider starring my repositories!
